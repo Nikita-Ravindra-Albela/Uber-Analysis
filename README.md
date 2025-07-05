@@ -95,7 +95,10 @@ Refresh data if needed.
 
 Use slicers and filters to interact with the report and extract relevant insights.
 
-----------------------------------------------------------------------------------------------------------------------------## 🙋 About Me
+---------------------------------------------------------------------------------------------------------------------------
+## 🙋 About Me
+
 Hi, I'm **Nikita Albela**, transitioning into Data Analytics with an MBA in Business Analytics and a knack for data storytelling. Let's connect and turn data into decisions! 🚀
+
 --------------------------------------------------------------------------------------------------------------------------
 Let's connect on [LinkedIn](www.linkedin.com/in/nikita-albela-4194b1164) 👩‍💻
